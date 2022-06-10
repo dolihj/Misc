@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "52349ddaa0b23609",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0e2f029505a5bcb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Characters that I love.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c48f2209cb35644",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee45e11fc940f60f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36b58e12e6de85bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "718c45cadaa0fa2d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aa58950f7da2fb04",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f5ffc3c57113aaf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "916f953c6392000d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Characters that I love.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e0e2f029505a5bcb",
+  "lastOpenFiles": [
+    "Characters that I love.md"
+  ]
+}
