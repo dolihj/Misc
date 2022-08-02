@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters that I love.md",
+            "file": "Rebounder.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters that I love.md",
+                "file": "Rebounder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "e0e2f029505a5bcb",
   "lastOpenFiles": [
+    "Rebounder.md",
     "Characters that I love.md"
   ]
 }
